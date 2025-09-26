@@ -1,0 +1,298 @@
+
+.first{
+    text-align: center;
+    color: rgb(144, 80, 69);
+    border-style:inherit;
+    border-radius: 500px;
+    border: 5px  solid;
+    background-color: antiquewhite;
+    border-color: rgb(90, 41, 31);
+    margin: 30px auto;
+    width: 500px;
+    height: 120px;
+}
+.first:hover{
+    color: #C26D5B;
+}
+.alexis{
+    text-align: center;
+        line-height: 0;
+        color: #3b2723;
+}
+.outterborder{
+      border-style:inherit;
+    border-radius: 100px;
+    border: 5px  solid;
+    background-color: antiquewhite;
+    border-color: rgb(90, 41, 31);
+    margin: 30px auto;
+    width: 800px;
+    height: 510px;
+}
+.h1border11{
+    text-align: center;
+    line-height: 2.0;
+    font-size: 59px;
+     border-style:double;
+    border-radius: 500px;
+    border: 5px solid;
+    background-color: rgb(255, 166, 166);
+    border-color: rgb(90, 41, 31);
+    margin: 30px auto;
+    width: 500px;
+    height: 120px;
+  
+    
+}
+.h1border12{
+     text-align: center;
+    line-height: 2.0;
+    font-size: 59px;
+     border-style:double;
+    border-radius: 500px;
+    border: 5px solid;
+    background-color: rgb(255, 166, 166);
+    border-color: rgb(90, 41, 31);
+    margin: 30px auto;
+    width: 500px;
+    height: 120px;
+}
+.h1border13{
+text-align: center;
+    line-height: 2.0;
+    font-size: 59px;
+     border-style:double;
+    border-radius: 500px;
+    border: 5px solid;
+    background-color: rgb(255, 166, 166);
+    border-color: rgb(90, 41, 31);
+    margin: 30px auto;
+    width: 500px;
+    height: 120px;
+}
+ .h1border11:hover{
+        border-color: #CC4127;
+        background-color: #FC9886;
+ }
+ .h1border12:hover{
+        border-color: #CC4127;
+        background-color: #FC9886;
+ }
+  .h1border13:hover{
+
+        border-color: #CC4127;
+        background-color: #FC9886;
+ }
+     /* up to this one is my indexhtml*/
+.second{
+    text-align: center;
+     color: rgb(144, 80, 69);
+      border-style:inherit;
+     font-size: 18px;
+     line-height: 1.0;
+    border-radius: 500px;
+    border: 5px  solid;
+    background-color: antiquewhite;
+    border-color: rgb(90, 41, 31);
+    margin: 10px auto;
+    width: 600px;
+    height: 120px;
+}
+.arrow{
+    text-align: center;
+    font-size: 40px;
+    line-height: 2.;
+}
+.previous1{
+   text-align: center;
+    color: rgb(144, 80, 69);
+    border-style:inherit;
+    border-radius: 500px;
+    border: 5px  solid;
+    background-color: antiquewhite;
+    border-color: rgb(90, 41, 31);
+    margin: 1px;
+    width: 500px;
+    height: 120px;
+}
+.previous1:hover{
+    background-color: #C26D5B;
+    border-color: #ffffff;
+}
+.next1{
+       text-align: center;
+    color: rgb(144, 80, 69);
+    border-style:inherit;
+    border-radius: 500px;
+    border: 5px  solid;
+    background-color: antiquewhite;
+    border-color: rgb(90, 41, 31);
+    margin: 1px;
+    width: 500px;
+    height: 120px;
+}
+.next1:hover{
+        background-color: #C26D5B;
+    border-color: #ffffff;
+}
+.profile1{
+ text-align: center;
+ display: inline-block;
+ color: hsl(3, 83%, 52%);
+}
+.profile2{
+ text-align: center;
+ display: inline-block;
+}
+.profile3{
+ text-align: center;
+ display: inline-block;
+}
+.head{
+    text-align: center;
+    font-size: 10px;
+    line-height: 1.0px;
+}
+.profile12{
+        border-style:inherit;
+    border-radius: 100px;
+    border: 5px  solid;
+    background-color: antiquewhite;
+    border-color: rgb(90, 41, 31);
+    margin: 30px auto;
+    width: 800px;
+    height: 510px;
+    
+}
+.image1{
+  border-style:inherit;
+    border: 5px  solid;
+    background-color: antiquewhite;
+    border-color: rgb(90, 41, 31);
+    margin: 20px auto;
+    width: 200px;
+    height: 200px
+}
+img{
+    display: block;
+     margin: 10px auto;
+    width: 30%;
+}
+p{
+    text-align: center;
+    color: #3b2723;
+    font-size: large;
+}
+/* sa taas ani kay code sa profile*/
+.profile4{
+ text-align: center;
+ display: inline-block;
+
+}
+.profile5{
+ text-align: center;
+ display: inline-block;
+  color: hsl(3, 83%, 52%);
+}
+.profile6{
+ text-align: center;
+ display: inline-block;
+}
+.head{
+    text-align: center;
+    font-size: 10px;
+    line-height: 1.0px;
+}
+.third{
+    text-align: center;
+     color: rgb(144, 80, 69);
+      border-style:inherit;
+     font-size: 18px;
+     line-height: 2.0;
+    border-radius: 500px;
+    border: 5px  solid;
+    background-color: antiquewhite;
+    border-color: rgb(90, 41, 31);
+    margin: 10px auto;
+    width: 600px;
+    height: 120px;
+}
+.about21{
+     border-style:inherit;
+    border-radius: 100px;
+    border: 5px  solid;
+    background-color: antiquewhite;
+    border-color: rgb(90, 41, 31);
+    margin: 30px auto;
+    width: 800px;
+    height: 530px;
+}
+/*taas ani kay abouthtml*/
+.profile7{
+ text-align: center;
+ display: inline-block;
+
+}
+.profile8{
+ text-align: center;
+ display: inline-block;
+}
+.profile9{
+ text-align: center;
+ display: inline-block;
+ color: hsl(3, 83%, 52%);
+}
+.home{
+    text-align: center;
+    font-size: 30px;
+}
+.home1{
+     text-align: center;
+     color: rgb(144, 80, 69);
+      border-style:inherit;
+     font-size: 18px;
+     line-height: 1.0;
+    border-radius: 500px;
+    border: 5px  solid;
+    background-color: antiquewhite;
+    border-color: rgb(90, 41, 31);
+    margin: 10px auto;
+    width: 200px;
+    height: 70px;
+}
+.home1:hover{
+      background-color: #C26D5B;
+    border-color: #ffffff;
+}
+.hobby21{
+    border-style:inherit;
+    border-radius: 50px;
+    border: 5px  solid;
+    background-color: antiquewhite;
+    border-color: rgb(90, 41, 31);
+    margin: 30px auto;
+    width: 900px;
+    height: 530px;
+}
+ul{
+  font-size: 30px;
+  line-height: 1.5;
+  color: #7a5149;
+}
+.things{
+    text-align: center;
+       border-style:inherit;
+    border-radius: 50px;
+    border: 5px  solid;
+    background-color: antiquewhite;
+    border-color: rgb(90, 41, 31);
+    margin: 20px auto;
+    width: 500px;
+    height: 45px;
+    background-color: #FC9886;
+    color: #fffffe;
+    
+}
+
+
+/* sa taas ani kay hobby nga code*/
